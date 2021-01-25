@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""
+settings.py
+
+User-defined settings
+"""
+
+ROOTURL = "https://example.com/"
